@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "db_phongtro123_nd2u_user",
+    "password": "7PDIALukhlz0KsivDkvRUHT4ij1vBz5P",
+    "database": "db_phongtro123_nd2u",
+    "host": "dpg-cpqkj7g8fa8c739hdfv0-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "logging": false,
+    "dialectOptions": {
+      "ssl":{
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+
+
+  "production": {
+    "username": "db_phongtro123_nd2u_user",
+    "password": "7PDIALukhlz0KsivDkvRUHT4ij1vBz5P",
+    "database": "db_phongtro123_nd2u",
+    "host": "dpg-cpqkj7g8fa8c739hdfv0-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "logging": false,
+    "dialectOptions": {
+      "ssl":{
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
